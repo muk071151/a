@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Unity Lesson_Operator.OperatorMethods\UnityLesson_CSharp_Arraay\obj\Debug\net5.0\UnityLesson_CSharp_Arraay.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Unity Lesson_Operator.OperatorMethods\UnityLesson_CSharp_Arraay\obj\Debug\net5.0\UnityLesson_CSharp_Arraay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Unity Lesson_Operator.OperatorMethods\UnityLesson_CSharp_Arraay\obj\Debug\net5.0\UnityLesson_CSharp_Arraay.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Unity Lesson_Operator.OperatorMethods\UnityLesson_CSharp_Arraay\obj\Debug\net5.0\UnityLesson_CSharp_Arraay.AssemblyInfo.cs
+C:\Users\User\source\repos\Unity Lesson_Operator.OperatorMethods\UnityLesson_CSharp_Arraay\obj\Debug\net5.0\UnityLesson_CSharp_Arraay.csproj.CoreCompileInputs.cache
